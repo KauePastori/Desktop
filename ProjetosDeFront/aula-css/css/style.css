@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=DynaPuff&family=Sedgwick+Ave+Display&display=swap');
+
+body{
+    height: 1000px;
+    background-color: gray;
+    background-image: url(../img/fundo2.png);
+    background-repeat: no-repeat;
+    background-position: 20% 20%;
+    background-attachment: fixed;
+    background-size: 50%;
+    color: #fff;
+}
+/*p{
+    color: blue;
+    background-color: aquamarine;
+}
+
+ #primeiro{
+    color: green;
+}
+
+.laranja{
+    color: rgba(170, 45, 200,0.5);
+}
+
+h1.laranja{
+    background-color: #18836155;
+}
+
+span{
+    color: red;
+} */
+
+
+#primeiro{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#segundo{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#terceiro{
+    font-family: 'Sedgwick Ave Display', cursive;
+}
+
+#quarto{
+    font-family: 'DynaPuff', cursive;
+}
